@@ -513,4 +513,7 @@ footer{
   color: #14396a;
   font-weight: 600;
 }
+.footer-nav ul li a:hover{
+  color: #2b5ea0;
+}
 /* footer part end here */
